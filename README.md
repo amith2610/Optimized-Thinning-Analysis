@@ -68,6 +68,21 @@ jupyter notebook
 - **Raw-datasets/**: Contains the original raw data files
 - **data/**: Contains processed and intermediate data files
 
+## Forest Stands
+- ### Dillwyn Stand (Stand-A):
+  Trees: 2,403 total
+  <img width="640" height="505" alt="Screenshot 2025-10-24 at 1 43 57 PM" src="https://github.com/user-attachments/assets/e521d183-b986-4f6f-adcc-0a6c44cdf0b8" />
+
+- ### Suffolk Stand (Stand B):
+  Trees:2,595 total
+  <img width="630" height="407" alt="Screenshot 2025-10-24 at 1 43 23 PM" src="https://github.com/user-attachments/assets/7b96b9df-ae03-4a02-a904-11e8460d98dd" />
+
+- ### Appomattox Stand (Stand C):
+  Trees: 3,420 total
+  <img width="595" height="558" alt="Screenshot 2025-10-24 at 1 42 44 PM" src="https://github.com/user-attachments/assets/0315e6c7-49f6-477e-85e1-b94eea410e54" />
+
+  
+
 ## Dependencies
 
 See `requirements.txt` for a complete list of dependencies.
